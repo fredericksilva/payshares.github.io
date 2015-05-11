@@ -9,6 +9,6 @@ Bounty Total Slots: 1
 
 Bounty Requirements:  
 
-Design and submit a killer makeover for Payshares with a site powered by jekyll
+Design and submit a killer makeover for Payshares.co with a site powered by jekyll
 
 All inquiries should be directed to @payshares on Twitter
