@@ -5,7 +5,24 @@
     <atom:link href="https://payshares.co/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://payshares.co/</link>
     <description>Simplyfying Money for Everyone</description>
-    <pubDate>Sat, 16 May 2015 04:34:52 -0400</pubDate>
+    <pubDate>Wed, 13 May 2015 07:07:48 -0400</pubDate>
+    
+      <item>
+        <title>Design Bounty</title>
+        <link>https://payshares.co/blog/2015/06/11/design-bounty.html</link>
+        <guid isPermaLink="true">https://payshares.co/blog/2015/06/11/design-bounty.html</guid>
+        <description>&lt;p&gt;Bounty Size: 1 Million XPS&lt;/p&gt;
+
+&lt;p&gt;Bounty Total Slots: 1&lt;/p&gt;
+
+&lt;p&gt;Bounty Requirements:&lt;/p&gt;
+
+&lt;p&gt;Design and submit a killer makeover for Payshares with a site powered by jekyll&lt;/p&gt;
+
+&lt;p&gt;All inquiries should be directed to @payshares on Twitter&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
+      </item>
     
       <item>
         <title>Development Update 2</title>
