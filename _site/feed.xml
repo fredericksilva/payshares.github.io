@@ -5,13 +5,13 @@
     <atom:link href="https://payshares.co/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://payshares.co/</link>
     <description>Simplyfying Money for Everyone</description>
-    <pubDate>Sat, 23 May 2015 10:37:38 -0400</pubDate>
+    <pubDate>Sat, 16 May 2015 04:34:52 -0400</pubDate>
     
       <item>
         <title>Development Update 2</title>
         <link>https://payshares.co/blog/2015/05/24/development-update-2.html</link>
         <guid isPermaLink="true">https://payshares.co/blog/2015/05/24/development-update-2.html</guid>
-        <description>&lt;p&gt;Production on the Payshares API began during the first week of May and is the focus for our development team over the course of the next two quarters.  The Payshares ledger has been reset to the original snapshot three times during development of the API.  At time of this writing, we are ledger 40000 and expect to reach the next level passing ledger entry 100000.  As more nodes are added, stability of the ledger will increase.  Beta testers with provable peers to the Payshares Network may receive up to 10,000 XPR per verified node by communicating with the development team on Twitter @Payshares.&lt;/p&gt;
+        <description>&lt;p&gt;Production on the Payshares API began during the first week of May and is the focus for our development team over the course of the next two quarters.  The Payshares ledger has been reset to the original snapshot three times during development of the API.  At time of this writing, we are ledger 40000 and expect to reach the next level passing ledger entry 100000.  As more nodes are added, stability of the ledger will increase.  Beta testers with provable peers to the Payshares Network may receive up to 10,000 XPS per verified node by communicating with the development team on Twitter @Payshares.&lt;/p&gt;
 
 &lt;p&gt;Our latest snapshot was taken on ledger #40100:&lt;/p&gt;
 
@@ -66,7 +66,7 @@
         <title>Development Update 1</title>
         <link>https://payshares.co/blog/2015/05/01/development-update-1.html</link>
         <guid isPermaLink="true">https://payshares.co/blog/2015/05/01/development-update-1.html</guid>
-        <description>&lt;p&gt;Payshares is now forging consensus and the initial reference implementation of XPR is available at https://github.com/payshares/paysharesd&lt;/p&gt;
+        <description>&lt;p&gt;Payshares is now forging consensus and the initial reference implementation of XPS is available at https://github.com/payshares/paysharesd&lt;/p&gt;
 
 &lt;p&gt;Support is being provided for Ubuntu 14.04 LTS 64-bit.  It is recommended to have at least 2 GB RAM, a quad core processor, and adequate disk space.  Installation of paysharesd on Ubuntu 14.04 is relatively straightforward with administrator privileges:&lt;/p&gt;
 

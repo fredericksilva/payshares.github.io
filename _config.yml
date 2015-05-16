@@ -6,7 +6,7 @@ url: "https://payshares.co" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Payshares
-  avatar: XPR.png
+  avatar: XPS.png
   gravatar: # email md5 hash
   description: "Simplyfying Money for Everyone" # used by search engines
   
@@ -27,7 +27,7 @@ theme:
   facebook: 
   flickr: 
   github: "payshares"
-  google_plus: "+PaysharesXPR"
+  google_plus: "+PaysharesXPS"
   instagram: 
   linkedin:  # full URL
   pinterest: 

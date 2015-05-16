@@ -3,7 +3,7 @@ layout: post
 title: Development Update 1
 ---
 
-Payshares is now forging consensus and the initial reference implementation of XPR is available at https://github.com/payshares/paysharesd
+Payshares is now forging consensus and the initial reference implementation of XPS is available at https://github.com/payshares/paysharesd
 
 Support is being provided for Ubuntu 14.04 LTS 64-bit.  It is recommended to have at least 2 GB RAM, a quad core processor, and adequate disk space.  Installation of paysharesd on Ubuntu 14.04 is relatively straightforward with administrator privileges:
 
